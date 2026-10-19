@@ -1138,7 +1138,7 @@
                 <ul>
                     <li><a href="#" class="active"><i class="fas fa-home"></i> Home</a></li>
                     <li><a href="#categories"><i class="fas fa-th-large"></i> Categories</a></li>
-                    <li><a href="#products"><i class="fas fa-fire"></i> trend</a></li>
+                    <li><a href="#products"><i class="fas fa-fire"></i> Trending</a></li>
                     <li><a href="#deals"><i class="fas fa-tag"></i> Deals</a></li>
                     <li><a href="#testimonials"><i class="fas fa-star"></i> Reviews</a></li>
                 </ul>
@@ -1169,7 +1169,7 @@
                 <ul>
                     <li><a href="#"><i class="fas fa-home"></i> Home</a></li>
                     <li><a href="#categories"><i class="fas fa-th-large"></i> Categories</a></li>
-                    <li><a href="#products"><i class="fas fa-fire"></i> trend</a></li>
+                    <li><a href="#products"><i class="fas fa-fire"></i> Trending</a></li>
                     <li><a href="#deals"><i class="fas fa-tag"></i> Deals</a></li>
                     <li><a href="#testimonials"><i class="fas fa-star"></i> Reviews</a></li>
                     <li><a href="#"><i class="far fa-user"></i> Account</a></li>
@@ -1214,7 +1214,7 @@
             <div class="container">
                 <div class="section-header">
                     <div class="title-group">
-                        <h2 id="prod-title">trend Now</h2>
+                        <h2 id="prod-title">Trending Now</h2>
                         <p>What's hot — popular picks from our community</p>
                     </div>
                     <a href="#" class="view-all">View All <i class="fas fa-arrow-right"></i></a>
