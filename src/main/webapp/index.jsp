@@ -1356,7 +1356,7 @@
         // DATA
         // ============================================================
         const CATEGORIES = [
-            { id: 'phones', name: 'Smartphones', icon: 'fa-mobile-alt', count: 24 },
+            { id: 'phones', name: 'smartphone', icon: 'fa-mobile-alt', count: 24 },
             { id: 'Laptop', name: 'Laptop', icon: 'fa-laptop', count: 18 },
             { id: 'clothing', name: 'Clothing', icon: 'fa-tshirt', count: 42 },
             { id: 'gadgets', name: 'Gadgets', icon: 'fa-headphones', count: 31 },
@@ -1367,7 +1367,7 @@
         const PRODUCTS = [
             { id: 1, title: 'iPhone 14 Pro Max', price: 1099, oldPrice: 1199, rating: 5, reviews: 128, badge: 'New',
                 img: 'https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?auto=format&fit=crop&w=600&q=80',
-                category: 'Smartphones' },
+                category: 'smartphone' },
             { id: 2, title: 'MacBook Pro 14"', price: 1999, rating: 4, reviews: 86, badge: '',
                 img: 'https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=600&q=80',
                 category: 'Laptop' },
